@@ -1,0 +1,22 @@
+{
+  "default_minutes": 30,
+  "idle_minutes": 5,
+  "theme": "dark",
+  "pre_reminder_minutes": 5,
+  "schedules": [
+    {
+      "time": "23:30",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ]
+    }
+  ],
+  "points": 0,
+  "streak": 0,
+  "last_shutdown_date": null,
+  "achievements": []
+}
