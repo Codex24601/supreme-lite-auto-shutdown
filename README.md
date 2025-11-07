@@ -30,7 +30,8 @@ Choose your version:
 
 ## 🖼 Screenshots
 ![Main UI](docs/screenshots/main.png)
-![Theme Selector](docs/screenshots/themes.png)
+<img width="647" height="494" alt="main" src="https://github.com/user-attachments/assets/777282fe-7944-4746-9978-4cfe4492654b" />
+
 
 ---
 
