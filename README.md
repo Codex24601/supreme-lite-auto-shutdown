@@ -64,3 +64,5 @@ For major changes, please open an issue first to discuss what you’d like to ad
 
 ## 📜 License
 Freeware for personal use.
+## 📣 Share Supreme Lite
+If you find this app useful, share it with friends or star the repo ⭐.(THANKS FOR BEING SUPPORTIVE)
