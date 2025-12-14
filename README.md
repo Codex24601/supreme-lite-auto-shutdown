@@ -32,24 +32,6 @@ but overcomplicated. Existing shutdown tools look dated. **Supreme Lite** delive
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### Main Interface
-![Main Window](https://raw.githubusercontent.com/Codex24601/supreme-lite-auto-shutdown/main/screenshots/main-window.png)
-
-### Settings & Configuration
-![Settings](https://raw.githubusercontent.com/Codex24601/supreme-lite-auto-shutdown/main/screenshots/settings.png)
-
-### Achievements & Gamification
-![Achievements](https://raw.githubusercontent.com/Codex24601/supreme-lite-auto-shutdown/main/screenshots/achievements.png)
-
-### Usage Statistics
-![Stats Dashboard](https://raw.githubusercontent.com/Codex24601/supreme-lite-auto-shutdown/main/screenshots/stats.png)
-
-### Schedule Manager
-![Schedules](https://raw.githubusercontent.com/Codex24601/supreme-lite-auto-shutdown/main/screenshots/schedules.png)
 
 </div>
 
