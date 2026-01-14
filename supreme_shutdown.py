@@ -56,7 +56,8 @@ class IdleMonitor(QThread):
         super().__init__()
         self.minutes = max(1, int(minutes))
         self.running = True
-    def get_idle_seconds(self):
+    @staticmethod
+    def get_idle_seconds():
         class LASTINPUTINFO(ctypes.Structure):
             _fields_ = [("cbSize", ctypes.c_uint), ("dwTime", ctypes.c_uint)]
         lii = LASTINPUTINFO()
